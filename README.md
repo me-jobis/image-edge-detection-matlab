@@ -68,7 +68,17 @@ The project uses the following test image:
 
 ## 📈 Results
 
-The detected edges obtained using Roberts, Prewitt, Sobel and Canny methods are compared to observe differences in edge strength, continuity and noise sensitivity.
+The original input image is processed using four different edge detection techniques: Roberts, Prewitt, Sobel and Canny.
+
+### Input Image
+
+![Input Image](input_image.jpeg)
+
+### Edge Detection Comparison
+
+![Edge Detection Comparison](edge_detection_comparison.png)
+
+The comparison demonstrates the differences in edge strength, continuity and noise sensitivity among the four methods.
 
 ## ▶️ How to Run
 
